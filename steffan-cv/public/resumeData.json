@@ -33,30 +33,24 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Teesside University?",
+        "degree":"BSc Hons Computer Games Science (2:1)",
+        "graduated":"2011",
+        "description":"For my dissertation I created a 3D physics engine which involved researching the required physics laws and equations, and the various algorithms that can be applied in calculating collision detections in a 3D environment."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Deep Sea Electronics",
+        "title":"PC Software Engineer",
+        "years":"December 2013 - Present",
+        "description":"My role as a Software Engineer involves development and testing of PC Software for use in a real-time control environment. The Software is used by thousands of clients to control engines, generators and associated equipment. I am regularly involved in making decisions throughout all development stages of various fast-moving project cycles, as well as assisting the more junior engineers."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Yell",
+        "title":"Video Associate",
+        "years":"November 2011 - December 2013",
+        "description":"My primary role was to assist in the creation and processing of video advertisements for small and medium businesses. I would complete a variety of tasks which involved solving customer queries via emails and telephone calls. I was faced with a range of technical and creative problems that needed solving."
       }
     ],
     "skills":[
