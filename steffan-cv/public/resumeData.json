@@ -33,7 +33,7 @@
     "skillmessage":"Please download my CV for a more detailed summary of my skills",
     "education":[
       {
-        "school":"Teesside University?",
+        "school":"Teesside University",
         "degree":"BSc Hons Computer Games Science (2:1)",
         "graduated":"2011",
         "description":"For my dissertation I created a 3D physics engine which involved researching the required physics laws and equations, and the various algorithms that can be applied in calculating collision detections in a 3D environment."
