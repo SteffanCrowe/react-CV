@@ -83,5 +83,15 @@
         "level":"60%"
       }
     ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AutoConsult",
+        "category":"Customer management website",
+        "image":"autoconsult.jpg",
+        "url":""
+      }
+    ]
   }
 }
