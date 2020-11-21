@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Please download my CV for a more detailed summary of my skills",
     "education":[
       {
         "school":"Teesside University?",
@@ -55,32 +55,32 @@
     ],
     "skills":[
       {
+        "name":"C# .NET",
+        "level":"85%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },           
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"CSS + HTML",
+        "level":"40%"
+      },
+      {
+        "name":"Javascript",
+        "level":"30%"
+      },       
+      {
+        "name":"TFS",
+        "level":"80%"
+      },
+      {
         "name":"Git",
         "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   }
