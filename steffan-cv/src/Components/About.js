@@ -30,12 +30,9 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   {name}<br />
+						   {city} <br />
+						   {email} <br />
 					   </p>
                </div>
                <div className="columns download">
