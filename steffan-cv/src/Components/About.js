@@ -45,7 +45,7 @@ class About extends Component {
                </div>
             </div>
 
-            <a href="https://github.com/SteffanCrowe/react-CVrl">The source for this website can be viewed on my GitHub page. Click Here!</a>
+            <a href="https://github.com/SteffanCrowe/react-CVrl">The source for this website can be viewed on my GitHub repository. Click Here!</a>
 
          </div>
       </div>
