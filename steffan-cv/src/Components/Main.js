@@ -7,8 +7,8 @@ import AutoConsult from '../Pages/AutoConsult';
 const Main = () => {
   return (
     <Switch> {/* The Switch decides which component to show based on the current URL.*/}
-      <Route exact path='/' component={Home}></Route>
-      <Route exact path='/autoconsult' component={AutoConsult}></Route>
+      <Route exact path='/react-CV' component={Home}></Route>
+      <Route exact path='/react-CV/autoconsult' component={AutoConsult}></Route>
     </Switch>
   );
 }

@@ -65,7 +65,7 @@ export default function AutoConsult() {
     <React.Fragment>
       <CssBaseline />
         <Toolbar>
-            <Link title="Back" to="">  
+            <Link title="Back" to="/react-CV/">  
             <Grid container spacing={2} justify="left">
                 <Grid item>
                     <i className="icon-left-open" />

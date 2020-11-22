@@ -24,7 +24,7 @@ class Home extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'/react-CV/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
