@@ -2,9 +2,9 @@
   "main": {
     "name": "Steffan Crowe",
     "occupation": "Senior Software Engineer",
-    "description": " with over 10 years' experience developing performance-critical software and leading engineering teams.",
+    "description": " with over 10 years' experience developing performance-critical software, architecting cloud solutions, and leading engineering teams.",
     "image": "profilepic.jpg",
-    "bio": "I am a highly skilled Software Engineer with over 10 years’ experience in developing robust applications using C#, .NET, and modern frameworks. I’ve recently led a successful engineering team and continue to push my knowledge through self-driven projects in blockchain, trading automation, and backend optimization.",
+    "bio": "I am a Senior Software Engineer with 10+ years’ experience building robust, scalable applications using C#, .NET, and modern frameworks. I’ve led engineering teams, managed large-scale infrastructure upgrades, and delivered projects across industrial automation, cloud, and blockchain. My work spans ASP.NET Core APIs, trading automation, and advanced backend optimization, with a focus on clean architecture and real business impact.",
     "contactmessage": "If you wish to get in touch, please send me an email at steffan.crowe@hotmail.co.uk",
     "email": "steffan.crowe@hotmail.co.uk",
     "phone": "",
@@ -14,7 +14,7 @@
       "state": "",
       "zip": "NE8 3FW"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://steffancrowe.github.io/react-CV/",
     "resumedownload": "https://docs.google.com/document/d/1r0LtJmUpREZ5VpSYJdNFKglFD4OcXow4/edit?usp=sharing&ouid=115326437404499784986&rtpof=true&sd=true",
     "social": [
       {
@@ -30,13 +30,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Please download my CV for a more detailed summary of my skills",
+    "skillmessage": "Please download my CV for a more detailed summary of my skills.",
     "education": [
       {
         "school": "Teesside University",
         "degree": "BSc Hons Computer Games Science (2:1)",
         "graduated": "2011",
-        "description": "For my dissertation I created a 3D physics engine which involved researching the required physics laws and equations, and the various algorithms that can be applied in calculating collision detections in a 3D environment."
+        "description": "For my dissertation I created a 3D physics engine covering collision detection, rotational and gravitational forces, implementing physics laws and custom algorithms for 3D environments."
       }
     ],
     "work": [
@@ -44,19 +44,25 @@
         "company": "Deep Sea Electronics",
         "title": "Engineering Supervisor / Software Engineer",
         "years": "December 2013 – August 2024",
-        "description": "Led and mentored an engineering team while delivering full-stack applications using C#, .NET, React Native, and GitHub Actions. Oversaw a key migration to Git and CI/CD pipelines. Developed performance-critical software used globally to configure and monitor industrial engine controllers."
-      },
-      {
-        "company": "Yell",
-        "title": "Video Associate",
-        "years": "November 2011 – December 2013",
-        "description": "Assisted in creating and processing video advertisements. Solved customer queries over email and phone, requiring strong technical and creative problem-solving skills."
+        "description": "Led and mentored an engineering team while delivering full-stack applications using C#, .NET, React Native, and GitHub Actions. Oversaw key infrastructure upgrades, including migration to Git and CI/CD pipelines. Developed and optimized software used globally to configure and monitor industrial controllers. Implemented advanced features such as PLC editors, cross-platform Mono solutions, and Python-based automated testing frameworks."
       },
       {
         "company": "Personal Project",
         "title": "Crypto Trading Platform Developer",
         "years": "August 2024 – Present",
-        "description": "Built an automated cryptocurrency trading platform using ASP.NET (.NET 8), BigQuery, and a custom Solana RPC node. Implemented data pipelines, trading strategies, genetic algorithm-based optimization, and messaging between real-time components."
+        "description": "Built a high-performance automated cryptocurrency trading platform using ASP.NET (.NET 8), ASP.NET Core Web API, BigQuery, and a custom Solana RPC node. Designed REST APIs (with Swagger), implemented data pipelines, real-time trading strategies, and genetic algorithm-based strategy optimization. Integrated secure remote configuration, monitoring, and manual execution endpoints."
+      },
+      {
+        "company": "Freelance (AutoConsult)",
+        "title": "CRM Developer (JavaScript)",
+        "years": "Nov 2021 – May 2022",
+        "description": "Designed and delivered a custom CRM web application for a multi-site car dealership. Integrated advanced features using JavaScript and Google Maps API, enabling tracking of sales, holiday management, commission calculation, and delivery pricing. Developed dynamic dashboards and reports to drive business decisions."
+      },
+      {
+        "company": "Yell",
+        "title": "Video Associate",
+        "years": "November 2011 – December 2013",
+        "description": "Created and processed video advertisements. Solved customer queries over email and phone, demonstrating strong communication and technical problem-solving skills."
       }
     ],
     "skills": [
@@ -65,34 +71,48 @@
         "level": "100%"
       },
       {
+        "name": "ASP.NET Core / Web API / REST",
+        "level": "90%"
+      },
+      {
         "name": "Python",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript / TypeScript",
-        "level": "65%"
-      },
-      {
-        "name": "SQL / BigQuery",
-        "level": "70%"
-      },
-      {
-        "name": "Git / GitHub Actions",
         "level": "80%"
       },
       {
-        "name": "ASP.NET / Dependency Injection",
+        "name": "JavaScript / TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "SQL / BigQuery",
+        "level": "75%"
+      },
+      {
+        "name": "Git / CI/CD / GitHub Actions",
         "level": "85%"
+      },
+      {
+        "name": "Linux / Cloud (AWS)",
+        "level": "75%"
+      },
+      {
+        "name": "Swagger (API docs/testing)",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "AutoConsult",
-        "category": "Customer management website",
+        "title": "AutoConsult CRM",
+        "category": "Customer management website (multi-site car dealership)",
         "image": "autoconsult.JPG",
         "url": "/react-CV/autoconsult"
+      },
+      {
+        "title": "Crypto Trading Platform",
+        "category": "Automated trading, data engineering, and blockchain",
+        "image": "crypto-trader.JPG",
+        "url": "/react-CV/crypto-trader"
       }
     ]
   }
