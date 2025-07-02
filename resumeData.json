@@ -42,15 +42,21 @@
     "work": [
       {
         "company": "Deep Sea Electronics",
-        "title": "Engineering Supervisor / Software Engineer",
-        "years": "December 2013 – August 2024",
-        "description": "Led and mentored an engineering team while delivering full-stack applications using C#, .NET, React Native, and GitHub Actions. Oversaw key infrastructure upgrades, including migration to Git and CI/CD pipelines. Developed and optimized software used globally to configure and monitor industrial controllers. Implemented advanced features such as PLC editors, cross-platform Mono solutions, and Python-based automated testing frameworks."
+        "title": "Engineering Supervisor",
+        "years": "February 2024 – August 2024",
+        "description": "Managed and mentored an expanding engineering team (5 to 8 members), conducted daily standups, managed Jira task allocation, and led major infrastructure upgrades from TFS to Git/GitHub and CI/CD pipelines. Delivered both customer-facing and internal applications leveraging C#, React Native, JavaScript, Blazor, and PHP. Reported directly to senior management and project managers, improving team productivity, technical quality, and cross-department collaboration."
+      },
+      {
+        "company": "Deep Sea Electronics",
+        "title": "Software Engineer",
+        "years": "December 2013 – February 2024",
+        "description": "Developed and maintained large-scale PC applications for configuring and monitoring industrial controllers used globally. Optimized application performance (e.g., reducing loading times via multi-threading), engineered a comprehensive PLC editor with major GUI improvements, and implemented cross-platform solutions using Mono for Linux. Built automated Python testing frameworks, mentored junior engineers, and acted as the primary technical contact for multiple projects."
       },
       {
         "company": "Personal Project",
         "title": "Crypto Trading Platform Developer",
         "years": "August 2024 – Present",
-        "description": "Built a high-performance automated cryptocurrency trading platform using ASP.NET (.NET 8), ASP.NET Core Web API, BigQuery, and a custom Solana RPC node. Designed REST APIs (with Swagger), implemented data pipelines, real-time trading strategies, and genetic algorithm-based strategy optimization. Integrated secure remote configuration, monitoring, and manual execution endpoints."
+        "description": "Built a high-performance automated cryptocurrency trading platform using ASP.NET (.NET 8), ASP.NET Core Web API, BigQuery, and a custom Solana RPC node. Designed REST APIs (with Swagger), implemented data pipelines, real-time trading strategies, and genetic algorithm-based strategy optimization. Integrated secure remote configuration, monitoring, and manual execution endpoints for real-time trading management."
       },
       {
         "company": "Freelance (AutoConsult)",
